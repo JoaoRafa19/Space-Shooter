@@ -1,2 +1,2 @@
 
-1 - Mover a nave
+1 - Mover a nave para esquerda e para direita
