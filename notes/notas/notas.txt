@@ -2,3 +2,8 @@
 
 1 - Mover a nave para esquerda e para direita
 1.1 - Importando a sprite do player
+1.2 - Criando o objeto do player e colocando a sprite
+
+2 Ajustando as dimmensoes da room e ajustando a view e viewport da room
+	2.1 Criando uma viewport e camera para o jogo
+	2.2 Ajustanto as dimensões para a view(grande) e viewport (pequeno)
