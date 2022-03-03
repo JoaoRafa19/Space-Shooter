@@ -1,2 +1,4 @@
+0 - Criando o player
 
 1 - Mover a nave para esquerda e para direita
+1.1 - Importando a sprite do player
