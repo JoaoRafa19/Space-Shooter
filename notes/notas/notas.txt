@@ -10,4 +10,15 @@
 	2.1 Criando uma viewport e camera para o jogo
 	2.2 Ajustanto as dimensões para a view(grande) e viewport (pequeno)
 	
+3 - Atirando
+	3.1 Importando os sprites do tiro
+	3.2 Criando o objeto do tiro
+	3.3 Atirando
+	3.4 Criando um efeito para o tiro
+	3.5 Diminuindo o tamanho com o tempo
 
+4 Inimigo
+	4.1 Importando as sprites 
+	4.2 Criando o objeto
+	4.3 Fazendo ele ir pra baixo
+	

@@ -10,3 +10,7 @@ var down = keyboard_check_direct(ord("S"));
 	y += (-velocidade * ( up - down));
 	
 
+if(mouse_check_button_pressed(mb_left)){
+	instance_create_layer(x,y-sprite_height/2, "Tiros", obj_bullet);
+	
+}
