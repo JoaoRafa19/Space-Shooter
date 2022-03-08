@@ -22,3 +22,8 @@
 	4.2 Criando o objeto
 	4.3 Fazendo ele ir pra baixo
 	
+5 Fazendo inimigo 01 atirar 
+	5.1 importando a sprite do tiro FEITO
+	5.2 Criando a sprite FEITO
+	5.3 criando o tiro do inimigo FEITO
+	5.4 fazendo inimigo atirar para baixo 

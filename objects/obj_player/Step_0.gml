@@ -6,11 +6,8 @@ var right =  keyboard_check_direct(ord("D"));
 var up = keyboard_check_direct(ord("W"));
 var down = keyboard_check_direct(ord("S"));
 		
-	x += (-velocidade * ( left - right));
-	y += (-velocidade * ( up - down));
+x += (-velocidade * ( left - right));
+y += (-velocidade * ( up - down));
 	
 
-if(mouse_check_button_pressed(mb_left)){
-	instance_create_layer(x,y-sprite_height/2, "Tiros", obj_bullet);
-	
-}
+atirando();

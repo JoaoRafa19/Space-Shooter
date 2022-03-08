@@ -105,8 +105,8 @@
     "resourceType": "GMNineSliceData",
   },
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "inimigo",
+    "path": "folders/Sprites/inimigo.yy",
   },
   "resourceVersion": "1.0",
   "name": "spr_inimigo01",
